@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Manoj",
+      "email": "raj@gmail.com",
+      "phone": "9874563210",
+      "videolink": "/home/fraction/Downloads/agGrid-crudOperation/server/Fraction.mp4"
+    },
+    {
+      "name": "Vikas Kumar",
+      "email": "vikas62081@gmail.com",
+      "phone": "+919876543210",
+      "videolink": "/home/fraction/Downloads/agGrid-crudOperation/server/Fraction.mp4",
+      "id": 5
+    },
+    {
+      "name": "Vikas Kumar",
+      "email": "vikas62081@gmail.com",
+      "phone": "+919876543210",
+      "videolink": "/home/fraction/Downloads/agGrid-crudOperation/server/Fraction.mp4",
+      "id": 6
+    },
+    {
+      "name": "Mohan",
+      "email": "vikas62081@gmail.com",
+      "phone": "+919876543210",
+      "videolink": "/home/fraction/Downloads/agGrid-crudOperation/server/Fraction.mp4",
+      "id": 7
+    }
+  ]
+}
